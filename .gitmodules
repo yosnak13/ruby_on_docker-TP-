@@ -1,0 +1,3 @@
+[submodule "sample_rails_application"]
+	path = sample_rails_application
+	url = https://github.com/tunagohan/sample_rails_application
