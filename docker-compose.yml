@@ -16,7 +16,7 @@ services:
     depends_on:
       - postgresql
     ports:
-      - "33000:3000"
+      - "3000:3000"
     volumes:
       - ./sample_rails_application:/app
       - bundle_data:/usr/local/bundle
